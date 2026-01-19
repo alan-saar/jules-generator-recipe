@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Pasta with Tomato Sauce",
+    "ingredients": ["pasta", "tomato sauce", "salt", "cheese"],
+    "instructions": "Boil pasta. Heat sauce. Mix together. Sprinkle cheese."
+  },
+  {
+    "id": 2,
+    "title": "Omelette",
+    "ingredients": ["eggs", "milk", "salt", "pepper", "butter"],
+    "instructions": "Beat eggs with milk, salt, pepper. Melt butter in pan. Cook eggs."
+  },
+  {
+    "id": 3,
+    "title": "Pancakes",
+    "ingredients": ["flour", "milk", "eggs", "sugar", "baking powder", "butter"],
+    "instructions": "Mix dry ingredients. Add wet ingredients. Cook on griddle."
+  },
+  {
+    "id": 4,
+    "title": "Grilled Cheese Sandwich",
+    "ingredients": ["bread", "cheese", "butter"],
+    "instructions": "Butter bread. Place cheese between slices. Grill until golden."
+  }
+]
